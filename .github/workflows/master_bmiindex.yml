@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'bmiindex'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA878CACB5534A6880845044F3F01FD2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B28979002B194860AF4E47474A03CC89 }}
